@@ -1,1 +1,56 @@
-# tutorial-site-and-deploy
+<div align="center">
+
+# 🌐 Мой первый Flask сайт
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-2.3.3-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![Status](https://img.shields.io/website?url=https%3A%2F%2Frock8k.pythonanywhere.com&label=сайт%20живой&color=green)](https://rock8k.pythonanywhere.com)
+
+**Живой сайт → [rock8k.pythonanywhere.com](https://rock8k.pythonanywhere.com)**
+
+</div>
+
+## 📖 О проекте
+
+Это мой первый полноценный веб-проект на Flask, который я разработал во время обучения. Сайт включает в себя главную страницу с навигационным меню и представляет собой основу для будущего портфолио.
+
+### 🎯 Цели проекта:
+- ✅ Освоить основы Flask framework
+- ✅ Научиться работать с HTML-шаблонами
+- ✅ Применить CSS для стилизации
+- ✅ Настроить деплой на PythonAnywhere
+- ✅ Создать первое работающее веб-приложение
+
+## 🛠 Технологии
+
+| Технология | Назначение |
+|------------|------------|
+| **Python** | Бэкенд-язык программирования |
+| **Flask** | Микрофреймворк для веб-разработки |
+| **HTML5** | Разметка и структура страниц |
+| **CSS3** | Стилизация и визуальное оформление |
+| **Jinja2** | Шаблонизатор для динамического контента |
+
+## 🚀 Быстрый старт
+
+### Установка и запуск локально:
+
+```bash
+# Клонирование репозитория
+git clone https://github.com/Rock4ik/tutorial-site-and-deploy.git
+
+# Переход в папку проекта
+cd tutorial-site-and-deploy
+
+# Создание виртуального окружения
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate  # Windows
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Запуск приложения
+python first_tutorial.py
