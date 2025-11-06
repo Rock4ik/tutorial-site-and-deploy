@@ -8,7 +8,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
 [![Status](https://img.shields.io/website?url=https%3A%2F%2Frock8k.pythonanywhere.com&label=сайт%20живой&color=green)](https://rock8k.pythonanywhere.com)
 
-**Живой сайт → [rock8k.pythonanywhere.com](https://rock8k.pythonanywhere.com)**
+**Живой сайт → [rock4ik.pythonanywhere.com](https://rock4ik.pythonanywhere.com/)**
 
 </div>
 
